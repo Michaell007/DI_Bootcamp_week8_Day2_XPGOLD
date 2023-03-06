@@ -73,4 +73,4 @@ GROUP BY first_name, last_name;
 -- Find the sum of all the students grades.
 
 SELECT SUM(math_grade) AS total_grades
-FROM student;
+FROM student; 
